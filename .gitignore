@@ -22,3 +22,5 @@ helpers/*
 */.ipynb_checkpoints/*
 *.ipynb
 debug.log
+
+.DS_Store	
