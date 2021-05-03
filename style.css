@@ -1,0 +1,30 @@
+<style type="text/css">
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  /* Zebra striping */
+  tr:nth-of-type(odd) {
+  }
+  th {
+    background: #333;
+    color: white;
+    font-weight: bold;
+  }
+  td, th {
+    padding: 6px;
+    border: 0px solid #ccc;
+    text-align: center;
+  }
+  button {
+    width: 150px;
+    margin: 5px;
+    padding: 15px;
+    font-size: 16px;
+    text-align: center
+  }
+  h2 {
+    font-family: sans-serif;
+    text-align: center
+  }
+  </style>
